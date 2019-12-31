@@ -1,0 +1,116 @@
+
+.home
+{
+    background-image: url(../images/asset\ 45.jpeg);
+    background-size: 100% 100%;
+    height: 100%;
+}
+.layer
+{
+    background-color: rgba(0 , 0, 0 , 0.5);
+    width: 100%;
+    height: 100%;
+}
+.grey
+{
+    background-color: #f7f7f7;
+}
+.white
+{
+    background-color: #fff;
+}
+.hor
+{
+    width: 4%;
+    border-color: black;
+}
+.numbers
+{
+    background-color: #1f1f1f;    
+}
+.carousel img
+{
+    position: relative;
+    bottom: 50px;
+}
+.icns
+{
+    background-image: url(../images/asset\ 48.jpeg);
+    background-size: cover;
+}
+.layeri
+{
+    background-color: rgba(0 , 0, 0 , 0.5);
+    width: 100%;
+}
+.ove
+{
+    overflow: visible;
+}
+.bezel
+{
+    background-image: url(../images/dotted-map.png);
+    background-size: cover;
+}
+.hum
+{
+    position: relative;
+}
+.hum .hov
+{
+    width: 90%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 14;
+    transition: 1s background-color;
+}
+.hum:hover .hov
+{
+    background-color: rgba(23, 162, 184, 0.7);
+}
+.workss img
+{
+    transition: 1s transform;
+}
+.workss:hover img
+{
+    transform: scale(1.3);
+}
+.workss:hover p
+{
+    color: black;
+}
+.workss:hover h4
+{
+    color: black;
+}
+.workss:hover .h
+{
+    color: black;
+    background-color: white;
+}
+.h
+{
+    transform: translateY(-120px);
+    background-color: #ffffff00;
+    transition: 2s all;
+}
+.h p
+{
+    color: #ffffff00;
+    transition: 4s all;
+}
+.h h4
+{
+    color: #ffffff00;
+    transition: 4s all;
+}
+.bor
+{
+    background-image: url(../images/asset\ 46.jpeg);
+    background-size: 100% 100%;
+    height: 100%;
+}
+
+
